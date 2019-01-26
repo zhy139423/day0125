@@ -6,6 +6,7 @@ public class Classes {
 	private int id;
 	private String name;
 	private List<Student> students;
+	private String aaa;
 	public int getId() {
 		return id;
 	}
